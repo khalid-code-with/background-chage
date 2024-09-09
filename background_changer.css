@@ -1,0 +1,52 @@
+
+
+  /* here new start */
+ body {
+    margin: 0;
+    padding: 20px 100px;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline 2px rgba(32, 30, 30, 0.726);
+}
+
+img {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+.btn {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border: 2px solid grey;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+#white {
+    background-color: #FFFFFF;
+}
+
+#aqua {
+    background-color: #00ffff;
+}
+
+#voilet {
+    background-color: #ee82ee;
+}
+
+#black {
+    background-color: black;
+}
+
+#color_changed {
+    text-align: right;
+}
